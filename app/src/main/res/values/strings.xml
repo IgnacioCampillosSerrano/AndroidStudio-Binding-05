@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">AndroidStudio - Binding - 05</string>
+    <string name="informacion">INFORMACION ALUMNO</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellidos">Apellidos</string>
+    <string name="grupo_a">GRUPO A</string>
+    <string name="grupo_b">GRUPO B</string>
+    <string name="grupo_c">GRUPO C</string>
+    <string name="cancelar">CANCELAR</string>
+    <string name="crear">CREAR</string>
+    <string-array name="spinner_ciclos">
+        <item>Selecciona un ciclo</item>
+        <item>SMR</item>
+        <item>DAM</item>
+        <item>DAW</item>
+        <item>3D</item>
+        <item>MARKETING</item>
+    </string-array>
+</resources>
